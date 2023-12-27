@@ -1,7 +1,5 @@
 # google_map_assignment
-
 A new Flutter project.
-![Screenshot](app.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
